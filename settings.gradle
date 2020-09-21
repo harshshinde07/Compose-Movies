@@ -1,0 +1,2 @@
+rootProject.name = "Popular Movies Compose"
+include ':app'
